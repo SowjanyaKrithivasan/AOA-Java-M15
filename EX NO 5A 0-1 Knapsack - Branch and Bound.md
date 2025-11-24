@@ -56,8 +56,8 @@ Prune any branch where the upper bound ≤ current best profit.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Bala R
-Register Number: 212222220007
+Developed by: SOWJANYA K
+Register Number: 212223090023
 */
 import java.util.*;
 
